@@ -21,6 +21,13 @@ package free.lib.congard.ml.graphics;
  * v[offset + 3]
  * </pre>
  *
+ * CML (Congard's Math Library) includes tools for working with matrices, vectors, points, etc.
+ * Version 1.0
+ * Email: dbcongard@gmail.com
+ * Telegram: t.me/congard
+ * GitHub: github.com/congard
+ * @author congard
+ *
  */
 public class GMatrix {
 	// from util.cpp
